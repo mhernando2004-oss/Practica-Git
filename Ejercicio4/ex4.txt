@@ -1,4 +1,0 @@
-{Pre: capital = C, anys = A, interes = R, C > 0.0, A > 0, R > 0.0 }
-funcio capitalAcumulat( capital: real, anys: enter, interes: real ) : real
-{Post: retorna capital * (1.0 + interes / 100.0) anys }
-
